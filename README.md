@@ -70,14 +70,3 @@ you — the values are attacker-controlled. Domains in the output are defanged.
 Run them from a personal machine on a personal network. The requests are harmless, but you
 probably do not want to be the person who generated the blockchain-RPC alert in your own
 SOC.
-
-## Provenance
-
-These were written with AI assistance during the investigation described in the article.
-I have worked through the logic and can explain what each script does and why; they are
-published because the article claims its findings can be verified in five minutes, and
-these are what I used to do that.
-
-## License
-
-MIT
