@@ -13,7 +13,7 @@ signed, timestamped, permanent transaction that anyone can read. Defenders can w
 contract instead of chasing the domains it hands out.
 
 Written while investigating a macOS ClickFix campaign that resolves its C2 through a
-Polygon contract. Full write-up: **[link to article]**
+Polygon contract. Full write-up: **[A Fourth Door: Compromised Legitimate Sites in the Polygon EtherHiding macOS Campaign](https://bugrasahinoglu.com/posts/clickfix-etherhiding-macos/)**
 
 ## Scripts
 
